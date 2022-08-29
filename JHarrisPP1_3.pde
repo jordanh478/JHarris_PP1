@@ -1,0 +1,13 @@
+size(200,300);
+strokeWeight(5);
+ellipse(100,150,60,60);
+ellipse(67,122,27,29);
+ellipse(58,150,25,30);
+ellipse(67,175,27,20);
+ellipse(130,179,25,20);
+ellipse(141,160,25,20);
+ellipse(143,135,31,30);
+strokeWeight(4);
+bezier(101,192,85,160,120,190,100,300);
+ellipse(78,250,50,10);
+ellipse(134,250,50,10);
